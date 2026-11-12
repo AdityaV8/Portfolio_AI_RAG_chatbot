@@ -1,0 +1,265 @@
+{
+  "personal_information": {
+    "name": "Aditya Narayan Panda",
+    "current_location": "Bhubaneswar, Odisha, India",
+    "hometown": "Bhawanipatna, Kalahandi, Odisha, India",
+    "interests": [
+      "Defence technology",
+      "Listening to music",
+      "Teaching children",
+      "Cricket"
+    ]
+  },
+
+  "education": {
+    "school": {
+      "institution": "Saraswati Shishu Vidya Mandir",
+      "location": "Odisha",
+      "classes": "7 to 10",
+      "percentage": 78.5,
+      "completed": 2018,
+      "board": "BSE Odisha"
+    },
+
+    "higher_secondary": {
+      "institution": "Government Autonomous College, Bhawanipatna",
+      "stream": "Science",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "Information Technology"
+      ],
+      "percentage": 61.5,
+      "period": "2018-2021"
+    },
+
+    "bca": {
+      "degree": "Bachelor of Computer Applications",
+      "institution": "Kalahandi University",
+      "location": "Bhawanipatna, Odisha",
+      "period": "2021-2024",
+      "percentage": 81.08,
+      "backlogs": 0
+    },
+
+    "mca": {
+      "degree": "Master of Computer Applications",
+      "institution": "United School of Business Management (USBM)",
+      "location": "Bhubaneswar, Odisha",
+      "university": "Biju Patnaik University of Technology (BPUT)",
+      "started": 2025,
+      "status": "Currently pursuing"
+    },
+
+    "previous_mca": {
+      "institution": "Veer Surendra Sai University of Technology (VSSUT), Burla",
+      "year": 2024,
+      "status": "Discontinued",
+      "reason": "Personal circumstances"
+    }
+  },
+
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "C",
+      "C++"
+    ],
+
+    "web_technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ],
+
+    "backend": [
+      "Django",
+      "Django REST Framework",
+      "REST API",
+      "JWT"
+    ],
+
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "SQLite3",
+      "SQL"
+    ],
+
+    "ai_and_rag": [
+      "Artificial Intelligence",
+      "LLM",
+      "LangChain",
+      "RAG",
+      "Vector Databases",
+      "MongoDB Vector Search",
+      "Embeddings"
+    ],
+
+    "tools_and_platforms": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Ubuntu",
+      "Google Cloud Platform",
+      "Cloudinary"
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "Technician Market",
+      "type": "Web Application",
+      "technologies": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "JavaScript",
+        "Bootstrap",
+        "SQLite3"
+      ],
+      "description": "A web platform that connects customers with service technicians.",
+      "features": [
+        "User registration",
+        "Technician discovery",
+        "Appointment booking",
+        "Assignment tracking"
+      ],
+      "role": "Backend Developer"
+    },
+
+    {
+      "name": "Green Squad",
+      "type": "Hackathon Project",
+      "technologies": [
+        "Django",
+        "REST API",
+        "JWT",
+        "PostgreSQL",
+        "OpenAI",
+        "Roboflow",
+        "Google Cloud Platform",
+        "Cloudinary"
+      ],
+      "description": "A garbage management platform connecting users with a government monitoring dashboard.",
+      "features": [
+        "Role-based authentication",
+        "REST APIs",
+        "Garbage management",
+        "AI-assisted garbage identification"
+      ]
+    },
+
+    {
+      "name": "Fullstack Doctor Appointment System",
+      "type": "Full Stack Web Application",
+      "technologies": [
+        "React.js",
+        "TailwindCSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "description": "A full-stack application for managing doctor appointments."
+    },
+
+    {
+      "name": "Electricity Billing Management System",
+      "type": "Desktop Application",
+      "technologies": [
+        "Java",
+        "Java Swing",
+        "SQL"
+      ],
+      "description": "A desktop billing system with separate admin and user functionality.",
+      "features": [
+        "Customer management",
+        "Bill generation",
+        "PDF bill download",
+        "SQL-based data storage"
+      ]
+    }
+  ],
+
+  "internships_and_training": [
+    {
+      "organization": "InternPe",
+      "role": "Web Development Intern",
+      "period": "April-May 2026",
+      "projects": [
+        "Calculator",
+        "T-shirt E-commerce Website",
+        "To-do List Application",
+        "Connect Four Game"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
+      "organization": "SortMyPrep",
+      "role": "AI Model Fine-Tuning Intern",
+      "period": "April-July 2026",
+      "responsibilities": [
+        "Academic data processing",
+        "Uploading academic documents",
+        "Validating OCR-generated outputs",
+        "Cleaning and structuring extracted data",
+        "Identifying inconsistencies",
+        "Comparing source documents with AI-processed outputs"
+      ]
+    },
+
+    {
+      "organization": "TetraTrion Technologies",
+      "training": "Full Stack Web Development in MERN Stack",
+      "duration": "6 months",
+      "technologies": [
+        "React.js",
+        "TailwindCSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "project": "Fullstack Doctor Appointment System"
+    }
+  ],
+
+  "achievements": [
+    {
+      "achievement": "OJEE Rank",
+      "details": "Secured OJEE rank 30."
+    },
+    {
+      "achievement": "LeetCode 50 Days Coding Challenge",
+      "details": "Completed the 50 Days Coding Challenge and earned the corresponding badge."
+    },
+    {
+      "achievement": "BCA Academic Performance",
+      "details": "Completed BCA with 81.08%."
+    }
+  ],
+
+  "career_goals": {
+    "primary_goal": "Become a Python full-stack/backend developer.",
+    "areas_of_interest": [
+      "Python",
+      "Django",
+      "AI",
+      "LLM applications",
+      "RAG",
+      "Vector databases",
+      "MongoDB",
+      "Backend development",
+      "Backend architecture"
+    ],
+    "long_term_goal": "Build practical, scalable software applications and AI-powered applications."
+  }
+}

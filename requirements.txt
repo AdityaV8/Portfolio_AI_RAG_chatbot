@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+pymongo>=4.6.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional packages preserved for legacy Gemini rollback:
+# google-genai>=2.0.0
+# langchain-google-genai>=2.0.0

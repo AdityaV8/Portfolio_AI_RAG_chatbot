@@ -1,0 +1,258 @@
+{
+  "institution": {
+    "current_name": "Maa Manikeshwari University, Bhawanipatna",
+    "former_name": "Kalahandi University, Bhawanipatna",
+    "short_names": ["MMU", "Maa Manikeshwari University", "Kalahandi University"],
+    "website": "https://kalahandiuniversity.ac.in/",
+    "institution_type": "State affiliating university",
+    "location": {
+      "address": "At/Po-Bhawanipatna, Dist-Kalahandi, Odisha-766001, India",
+      "city": "Bhawanipatna",
+      "district": "Kalahandi",
+      "state": "Odisha",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "06670-230241"
+    },
+    "name_history": {
+      "renamed_from": "Kalahandi University, Bhawanipatna",
+      "renamed_to": "Maa Manikeswari University, Bhawanipatna",
+      "notification_date": "2024-01-01",
+      "retrieval_note": "Retain both current and former names because older records and user queries may use Kalahandi University."
+    }
+  },
+  "history_and_development": {
+    "origin_institution": "Government College (Autonomous), Bhawanipatna",
+    "origin_year": 1960,
+    "university_upgrade": {
+      "date": "2020-09-01",
+      "description": "Government College (Autonomous), Bhawanipatna was upgraded into Kalahandi University as an affiliating university."
+    },
+    "regular_vc_milestone": {
+      "date": "2021-04-16",
+      "name": "Prof. Sanjay Kumar Satapathy"
+    },
+    "history_summary": "The university describes education as an important driver of regional development in Kalahandi and traces its institutional origin to Government College (Autonomous), Bhawanipatna established in 1960."
+  },
+  "current_snapshot": {
+    "students": 4239,
+    "ug_courses": 23,
+    "pg_courses": 17,
+    "phd_courses": 17,
+    "faculties": 143,
+    "affiliated_colleges": {
+      "total": 52,
+      "categories": {
+        "autonomous_college": 1,
+        "general_colleges": 47,
+        "professional_colleges_bba_bca_pgdca": 4
+      }
+    },
+    "student_units": ["NCC", "YRC", "NSS Bureau"]
+  },
+  "leadership": {
+    "chancellor": {
+      "name": "Dr. Hari Babu Kambhampati",
+      "role": "Hon'ble Chancellor"
+    },
+    "vice_chancellor": {
+      "name": "Prof. Pawan Kumar Agrawal",
+      "email": "vc@kalahandiuniversity.ac.in"
+    },
+    "registrar": {
+      "name": "Dr. Gunanidhi Naik",
+      "email": "registrar@kalahandiuniversity.ac.in",
+      "phone": "9937398628"
+    },
+    "chairperson_pg_council_and_director_iqac": {
+      "name": "Dr. Nibedita Nath",
+      "email": "cpgc@kalahandiuniversity.ac.in"
+    },
+    "director_research": {
+      "name": "Dr. Rajakishor Mahana",
+      "email": "dir.rdc@kalahandiuniversity.ac.in"
+    },
+    "comptroller_of_finance": {
+      "name": "Sri Suresh Pidisika",
+      "email": "cof@kalahandiuniversity.ac.in"
+    }
+  },
+  "recognition_and_official_records": {
+    "ugc": "UGC recognition under Section 2(f) is listed in the university's Important Letters and Notifications.",
+    "naac": "A NAAC Accreditation Certificate is listed in the university's Important Letters and Notifications, dated 2017-07-19.",
+    "odisha_higher_education": "Official Higher Education Department records on the site document the university's creation and upgrade.",
+    "aicte": "The university site links to AICTE and specific department pages state AICTE approval for BBA and BCA from 2024."
+  },
+  "academic_structure": {
+    "streams": [
+      "Arts",
+      "Commerce",
+      "Science",
+      "Biological Science",
+      "Physical Science",
+      "Computer Science",
+      "Teacher Education"
+    ],
+    "science_subjects": ["Physics", "Chemistry", "Botany", "Zoology", "Mathematics", "Computer Science", "Anthropology"],
+    "arts_subjects": ["Anthropology", "Economics", "Education", "English", "Geography", "Hindi", "History", "Home Science", "Odia", "Philosophy", "Political Science", "Sanskrit", "Sociology", "B.Ed."],
+    "commerce_subjects": ["Commerce", "BBA", "BCA"]
+  },
+  "programmes_offered": {
+    "pg": {
+      "arts": [
+        {"subject": "Anthropology", "annual_intake": 20}, {"subject": "Economics", "annual_intake": 32},
+        {"subject": "Education", "annual_intake": 32}, {"subject": "English", "annual_intake": 32},
+        {"subject": "Geography", "annual_intake": 32}, {"subject": "History", "annual_intake": 32},
+        {"subject": "Odia", "annual_intake": 32}, {"subject": "Political Science", "annual_intake": 32},
+        {"subject": "Sanskrit", "annual_intake": 32}, {"subject": "Sociology", "annual_intake": 32}
+      ],
+      "commerce": [{"subject": "Commerce", "annual_intake": 32}],
+      "science": [
+        {"subject": "Anthropology", "annual_intake": 12}, {"subject": "Botany", "annual_intake": 32},
+        {"subject": "Zoology", "annual_intake": 32}, {"subject": "Chemistry", "annual_intake": 32},
+        {"subject": "Physics", "annual_intake": 32}, {"subject": "Mathematics", "annual_intake": 32}
+      ]
+    },
+    "ug": {
+      "arts": [
+        {"subject": "Anthropology", "annual_intake": 48}, {"subject": "Economics", "annual_intake": 48},
+        {"subject": "Education", "annual_intake": 48}, {"subject": "English", "annual_intake": 48},
+        {"subject": "Geography", "annual_intake": 48}, {"subject": "History", "annual_intake": 48},
+        {"subject": "Hindi", "annual_intake": 32}, {"subject": "Home Science", "annual_intake": 32},
+        {"subject": "Odia", "annual_intake": 48}, {"subject": "Philosophy", "annual_intake": 32},
+        {"subject": "Political Science", "annual_intake": 48}, {"subject": "Sanskrit", "annual_intake": 32},
+        {"subject": "Sociology", "annual_intake": 48}
+      ],
+      "commerce": [{"subject": "Commerce", "annual_intake": 128}],
+      "biological_science": [
+        {"subject": "Botany", "annual_intake": 48}, {"subject": "Zoology", "annual_intake": 48}
+      ],
+      "physical_science": [
+        {"subject": "Chemistry", "annual_intake": 48}, {"subject": "Physics", "annual_intake": 48}, {"subject": "Mathematics", "annual_intake": 32}
+      ],
+      "computer_science": [{"subject": "Computer Science", "annual_intake": 64, "mode": "Self-financing"}]
+    },
+    "teacher_education": [{"program": "Two Years B.Ed.", "annual_intake": 50, "mode": "Self-financing"}],
+    "new_self_financing_ug_2023_24": [
+      {"program": "BBA", "annual_intake": 128},
+      {"program": "BCA", "annual_intake": 64}
+    ],
+    "phd": [
+      "Anthropology", "Archaeology & Museology", "Botany", "Chemistry", "Commerce", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Odia", "Physics", "Political Science", "Sanskrit", "Sociology", "Zoology"
+    ]
+  },
+  "departments": [
+    "Anthropology", "BBA", "BCA", "Botany", "Chemistry", "Commerce", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Odia", "Physics", "Political Science", "Sanskrit", "Sociology", "Zoology"
+  ],
+  "selected_department_profiles": {
+    "anthropology": {
+      "programmes": ["BA/BSc", "MA/MSc", "PhD"],
+      "featured_topics": ["Anthropology of Development", "Social Policy", "Anthropology of Gender", "Museology", "Linguistic Anthropology", "Digital Anthropology"],
+      "faculty_count_stated_on_page": 7
+    },
+    "geography": {
+      "undergraduate_start": 1960,
+      "postgraduate_start": 1992,
+      "phd_start": 2022,
+      "ug_intake_stated_on_page": 38,
+      "pg_intake_stated_on_page": 32,
+      "specializations": ["Remote Sensing & Geo-spatial Information System", "Regional & Urban Planning"],
+      "laboratories": ["RS & GIS Laboratory", "Cartography Laboratory"],
+      "faculty_count_stated_on_page": 6
+    },
+    "commerce": {
+      "focus_areas": ["Accounting", "Finance", "Marketing", "Economics", "Human Resource Development", "International Business", "ICT", "Securities Market", "Derivatives", "Financial Markets", "Industrial Relations", "Companies Act", "Business Law", "Taxation"],
+      "capacity_stated_on_page": {"graduation_students": 384, "pg_students": 64, "bba_seats": 128, "bca_seats": 64}
+    },
+    "english": {
+      "programmes": ["BA Core in English", "MA in English", "PhD in English"],
+      "teaching_areas": ["Contemporary Literary Theories", "Linguistic Studies", "Classical Literature", "Indian English Literature", "Translation Studies", "Aesthetics Studies"]
+    },
+    "history": {
+      "features": ["Museum", "Archives", "Palm leaves", "Western Odisha Prehistoric Tools Gallery", "Archaeological facilities"],
+      "interdisciplinary_areas": ["Archaeology", "Art History", "Anthropology", "Ethno-history", "Ethno-Archaeology", "Art and Architecture"]
+    },
+    "bba": {
+      "established": 2023,
+      "mode": "Self-financing",
+      "selection": "SAMS selection process",
+      "aicte_approval_statement": "Department page states AICTE approval from 2024.",
+      "facilities": ["Department office", "Classrooms", "Departmental library", "Computer laboratory"],
+      "vision": "To develop future business leaders and entrepreneurs with strong ethical values, managerial skills, and global outlook, capable of contributing effectively to the dynamic business environment."
+    },
+    "bca": {
+      "established": 2023,
+      "mode": "Self-financing",
+      "selection": "SAMS selection process",
+      "aicte_approval_statement": "Department page states AICTE approval from 2024.",
+      "facilities": ["Department office", "Classrooms", "Departmental library", "Computer laboratory"],
+      "vision": "To cultivate competent IT professionals and software developers with technical expertise, problem-solving abilities, and an innovative mindset to meet industry demands."
+    }
+  },
+  "facilities": {
+    "core_facilities": ["Hostel", "Guest House", "Kalahandi Library", "Banking Facilities", "Postal Service", "Canteen", "Training & Placement"],
+    "academic_resources": ["Library with reading room", "E-library", "E-Pathsala", "IT Cell", "Research facilities", "Herbarium", "History and Anthropology Museum", "Pothi (palm leaf manuscripts) corner", "Telescope"],
+    "student_development": ["Gym", "Yoga", "Self Defense", "Inter-departmental competitions", "Inter-hostel competitions", "Field Study to tribal pockets", "Film club", "Startup Odisha activities"],
+    "health_and_support": ["Medical facility", "Support for physically handicapped students", "First Aid Knowledge for All initiative", "Student Grievance Redressal Cell"],
+    "campus_environment": ["Plantation drive", "Waste-water treatment", "Waste-to-wealth initiatives", "Seed bank", "Portable biogas plant", "Horticultural gardens in hostels"]
+  },
+  "student_services_and_cells": {
+    "cells_centres_and_councils": ["Research & Innovation", "Anti-Ragging & Eve Teasing", "Training & Placement", "Scholarship Cell", "IT Cell", "Internal Quality Assurance Cell", "Equal Opportunity Cell", "SC & ST Cell", "Sports Council", "Student Grievance Redressal Cell", "Internal Complaints Committee"],
+    "student_units": ["NCC", "NSS Bureau", "Youth Red Cross (YRC)"]
+  },
+  "research_and_innovation": {
+    "reported_initiatives": ["Research facilities for postgraduates", "Research & Innovation activities", "MoUs with academic institutions and organizations", "State/National/International seminars and conferences"],
+    "mous_reported_on_history_page": {"signed": 14, "pipeline": 5},
+    "named_collaborators_examples": ["KISS University", "Government College of Engineering, Kalahandi", "Bule Hora University, Ethiopia", "Odisha Biodiversity Board", "Shyam Lal College, Delhi University", "IBRAD, Kolkata", "INFLIBNET Centre", "OUAT, Bhawanipatna", "University College Cork", "Centre for Youth & Social Development"]
+  },
+  "outreach_and_student_development": {
+    "programmes_and_initiatives": ["Uttisthata motivational lecture series", "Earn While You Learn", "University School Connect Program", "Current Creators", "Mo College, Mo University", "Vice Chancellor's Cup Debate", "G20 University Connect", "First Aid Knowledge for All"],
+    "nss": {"started": "2021-09-01", "volunteers_reported": 2500},
+    "sports": {"reported_inter_university_medals": {"gold": 2, "silver": 2, "bronze": 1}},
+    "ncc_activities_reported": ["Army Wing Senior Division Boys", "Army Wing Senior Division Women", "Air Wing", "Naval Wing", "Republic Day Parade participation", "Youth Exchange Program", "Thal Sainik Camp", "Tribal Trekking Camp"]
+  },
+  "affiliated_colleges": {
+    "total": 52,
+    "categories": {"autonomous_college": 1, "general_colleges": 47, "professional_colleges": 4},
+    "note": "The university's affiliated-colleges page provides the detailed institution list."
+  },
+  "cultural_and_regional_resources": {
+    "resources": ["History and Anthropology Museum", "Western Odisha Prehistoric Tools Gallery", "Pothi collection", "Herbarium", "Tribal art on campus walls", "Habaspuri weaving documentation"],
+    "regional_context": "The university links its development role to the educational, social and cultural context of Kalahandi and Western Odisha."
+  },
+  "rag_knowledge": {
+    "entity_type": "university",
+    "canonical_entity": "Maa Manikeshwari University, Bhawanipatna (formerly Kalahandi University)",
+    "search_keywords": [
+      "Maa Manikeshwari University", "MMU Bhawanipatna", "Kalahandi University", "Kalahandi University Odisha", "Kalahandi University Bhawanipatna", "BCA Kalahandi University", "BBA Kalahandi University", "Computer Science Kalahandi University", "Kalahandi University departments", "Kalahandi University faculty", "Kalahandi University admission", "Kalahandi University hostel", "Kalahandi University library", "Kalahandi University placement", "Kalahandi University affiliated colleges"
+    ],
+    "sample_queries": [
+      "What is the current name of Kalahandi University?",
+      "When was Kalahandi University upgraded to a university?",
+      "Where is Maa Manikeshwari University located?",
+      "Who is the current Vice-Chancellor?",
+      "What courses are offered?",
+      "What is the annual intake of BCA?",
+      "Which PhD subjects are offered?",
+      "What departments are available?",
+      "What facilities are available on campus?",
+      "How many affiliated colleges are there?",
+      "Who is the Registrar?"
+    ]
+  },
+  "sources": [
+    {"title": "Official Homepage", "url": "https://kalahandiuniversity.ac.in/", "scope": ["current name", "leadership", "counts", "facilities", "contact"]},
+    {"title": "History and Progress", "url": "https://kalahandiuniversity.ac.in/history/", "scope": ["history", "upgrade", "initiatives", "facilities", "research and outreach"]},
+    {"title": "Programmes Offered", "url": "https://kalahandiuniversity.ac.in/programmes-offered/", "scope": ["UG", "PG", "B.Ed", "BBA", "BCA", "PhD", "intake"]},
+    {"title": "Departments", "url": "https://kalahandiuniversity.ac.in/departments/", "scope": ["department list", "contact"]},
+    {"title": "Contact Us", "url": "https://kalahandiuniversity.ac.in/contactus/", "scope": ["administration", "emails", "contact"]},
+    {"title": "Important Letters and Notifications", "url": "https://kalahandiuniversity.ac.in/important-letters/", "scope": ["renaming", "UGC 2(f)", "NAAC", "upgrade records"]},
+    {"title": "BBA Department", "url": "https://kalahandiuniversity.ac.in/department/26/", "scope": ["BBA", "AICTE approval statement", "facilities", "vision"]},
+    {"title": "BCA Department", "url": "https://kalahandiuniversity.ac.in/department/27/", "scope": ["BCA", "AICTE approval statement", "facilities", "vision"]}
+  ],
+  "data_quality_and_update_notes": {
+    "time_sensitive_fields": ["Vice-Chancellor", "Registrar", "student count", "faculty count", "course counts", "admissions", "department intake", "affiliated college count"],
+    "verification_rule": "For time-sensitive questions, retrieve the latest official university page or notification instead of relying only on this stored snapshot."
+  }
+}

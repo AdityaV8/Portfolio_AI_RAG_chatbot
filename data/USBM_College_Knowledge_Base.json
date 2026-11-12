@@ -1,0 +1,566 @@
+{
+  "institution": {
+    "name": "United School of Business Management",
+    "short_name": "USBM",
+    "type": "Professional higher-education institution",
+    "location": {
+      "address": "37/A, Chandaka Industrial Estate, Near Infocity, Patia, Bhubaneswar, Odisha 751024",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "country": "India"
+    },
+    "website": "https://www.usbm.ac.in/",
+    "official_faculty_page": "https://www.usbm.ac.in/Faculty.php",
+    "contact": {
+      "phone": [
+        "(0674) 2725-665",
+        "(+91) 828-031-7777"
+      ],
+      "email": "usbmbbsr@yahoo.com"
+    }
+  },
+  "about": {
+    "official_description": "United School of Business Management (USBM) is located in Bhubaneswar, the capital city of Odisha. The institution states that it was established with support from academicians, industrialists and business houses and focuses on professional MBA and MCA education.",
+    "institutional_focus": [
+      "Management education",
+      "Computer Applications education",
+      "Academic excellence",
+      "Industry interaction",
+      "Practical and contemporary learning"
+    ],
+    "founder_message": {
+      "founder_name": "Mr. Soumyakanta Balabantaray",
+      "qualifications": [
+        "MA (Applied Geography)",
+        "LLB",
+        "MBA"
+      ],
+      "institution_history_statement": "The official website states that USBM started its journey 18 years before the current website publication context to address the growing need for management study and computer applications."
+    },
+    "leadership": {
+      "principal": {
+        "name": "Dr. Sanjib Kumar Das",
+        "qualifications": [
+          "M.Com.",
+          "PhD"
+        ]
+      },
+      "academic_advisor": {
+        "name": "Prof. (Dr.) Kahnu Charan Swain",
+        "qualifications": [
+          "M.Com.",
+          "Ph.D"
+        ]
+      }
+    }
+  },
+  "recognition_and_affiliation": {
+    "aiCTE": {
+      "status": "Approved",
+      "full_name": "All India Council for Technical Education",
+      "source": "Official USBM website"
+    },
+    "bput": {
+      "status": "Affiliated",
+      "full_name": "Biju Patnaik University of Technology, Government of Odisha",
+      "source": "Official USBM website"
+    },
+    "naac": {
+      "status": "Accredited",
+      "source": "Official USBM website"
+    }
+  },
+  "vision_and_mission": {
+    "vision": "To be an institution of academic excellence fostering quality techno-managerial education and empowering future workforce.",
+    "mission": [
+      "Strive for academic excellence",
+      "Integrate the latest ICT-enabled tools with the teaching-learning process",
+      "Maintain strong industry interaction",
+      "Prepare students for real-life professional challenges"
+    ]
+  },
+  "academic_programs": [
+    {
+      "program": "Master of Business Administration",
+      "short_name": "MBA",
+      "duration": "2 years",
+      "seats": 240,
+      "admission_status_on_website": "Admission Open 2026",
+      "focus": [
+        "Executive leadership",
+        "Analytics",
+        "Strategy",
+        "Dual specialization",
+        "Global immersion"
+      ]
+    },
+    {
+      "program": "Master of Computer Applications",
+      "short_name": "MCA",
+      "duration": "2 years",
+      "seats": 120,
+      "admission_status_on_website": "Admission Open 2026",
+      "focus": [
+        "Advanced software engineering",
+        "Data science",
+        "System design",
+        "Industry-mentored learning"
+      ]
+    },
+    {
+      "program": "Bachelor of Business Administration",
+      "short_name": "BBA",
+      "duration": "3 years",
+      "seats": 60,
+      "admission_status_on_website": "Admission Open 2026",
+      "focus": [
+        "Strategic leadership",
+        "Marketing",
+        "Finance",
+        "Industry projects",
+        "Live case studies"
+      ]
+    },
+    {
+      "program": "Bachelor of Computer Applications",
+      "short_name": "BCA",
+      "duration": "3 years",
+      "seats": 60,
+      "admission_status_on_website": "Admission Open 2026",
+      "focus": [
+        "Full-stack development",
+        "Cloud",
+        "AI foundations",
+        "Hands-on labs",
+        "Certification track"
+      ]
+    }
+  ],
+  "campus_facilities": {
+    "lecture_rooms": "Spacious smart classrooms with modern teaching aids.",
+    "computer_laboratory": "High-performance systems with current software access.",
+    "wifi_campus": "High-speed internet connectivity across the campus.",
+    "library": "Collection of books, journals and digital resources.",
+    "hostel": "Accommodation with modern amenities.",
+    "gymnasium": "Fitness center for students.",
+    "canteen": "Canteen providing hygienic and affordable food.",
+    "transportation": "Transport facilities for students.",
+    "additional_facility_details": {
+      "wifi_access_points": 10,
+      "wifi_distribution": {
+        "college_campus": 4,
+        "hostel": 4,
+        "library": 1,
+        "language_lab": 1
+      },
+      "library_services": [
+        "Computerized library",
+        "Academic books",
+        "Journals",
+        "Periodicals",
+        "Electronic information sources",
+        "Current Awareness Service (CAS)",
+        "Reprographic facility",
+        "OPAC / digital library access"
+      ],
+      "classroom_training_methods": [
+        "Case studies",
+        "Assignments",
+        "Quizzes",
+        "Student presentations",
+        "Interactive learning"
+      ]
+    }
+  },
+  "placement_and_corporate_connect": {
+    "website_claims": {
+      "corporate_tie_ups": "200+",
+      "students_placed": "1,800+",
+      "alumni": "2,000+",
+      "live_sessions": "150+"
+    },
+    "placement_analysis_2025_26": {
+      "companies_participated": 91,
+      "maximum_package_lpa": 19,
+      "average_package_lpa": 5.2,
+      "lowest_package_lpa": 2.8,
+      "students_with_8_to_10_lpa_package": 37,
+      "sector_wise_placement_percentages": {
+        "Marketing": 92,
+        "Finance": 78,
+        "HR": 70,
+        "IT": 90,
+        "OM": 80
+      },
+      "other_outcome": {
+        "entrepreneurship_and_family_business": "9%"
+      }
+    },
+    "career_support_areas": [
+      "Placement connect",
+      "Career counseling",
+      "Industry connect",
+      "Summer internship",
+      "Recruiter engagement"
+    ]
+  },
+  "faculty": {
+    "description": "The official Faculty page lists faculty members across Finance, General Management, English, HR, Marketing, Economics, Quantitative Techniques & Operations Management, Mathematics & QT, Computer Science, and Training & Placement.",
+    "members": [
+      {
+        "name": "Prof. (Dr.) Sanjib Kumar Das",
+        "designation": "Professor",
+        "department": "Finance",
+        "email": "Sanjib@usbm.ac.in"
+      },
+      {
+        "name": "Dr. Kahnu Charan Swain",
+        "designation": "Professor",
+        "department": "General Management"
+      },
+      {
+        "name": "Dr. Manoranjan Rath",
+        "designation": "Professor",
+        "department": "English",
+        "email": "rathmanoranjan85@gmail.com"
+      },
+      {
+        "name": "Dr. Nandita Mohapatra",
+        "designation": "Associate Professor",
+        "department": "Finance"
+      },
+      {
+        "name": "Dr. Sarat Samantaray",
+        "designation": "Assistant Professor",
+        "department": "Finance"
+      },
+      {
+        "name": "Mr. Subrat Kumar Rout",
+        "designation": "Assistant Professor",
+        "department": "Finance"
+      },
+      {
+        "name": "Dr. Sushree Sangita Sahoo",
+        "designation": "Associate Professor",
+        "department": "HR"
+      },
+      {
+        "name": "Dr. Biswajita Das",
+        "designation": "Associate Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Mrs. Rasna Swain",
+        "designation": "Assistant Professor",
+        "department": "OB & HR"
+      },
+      {
+        "name": "Mr. Pradeep Kumar Dey",
+        "designation": "Assistant Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Dr. Sushanta Kumar Mishra",
+        "designation": "Associate Professor",
+        "department": "HR",
+        "email": "sushantamishra16@gmail.com"
+      },
+      {
+        "name": "Mrs. Kabita Dey",
+        "designation": "Assistant Professor",
+        "department": "HR"
+      },
+      {
+        "name": "Mr. T Praveen Kumar Patra",
+        "designation": "Assistant Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Mr. Soumya Ranjan Pradhan",
+        "designation": "Assistant Professor",
+        "department": "Finance"
+      },
+      {
+        "name": "Dr. Debasish Dash",
+        "designation": "Associate Professor",
+        "department": "Marketing",
+        "email": "debasisdash6@gmail.com"
+      },
+      {
+        "name": "Mrs. Sujata Das",
+        "designation": "Assistant Professor",
+        "department": "HR"
+      },
+      {
+        "name": "Miss. Subhasmita Parida",
+        "designation": "Assistant Professor",
+        "department": "Economics"
+      },
+      {
+        "name": "Mr. Amit Kumar Pattanaik",
+        "designation": "Assistant Professor",
+        "department": "HR"
+      },
+      {
+        "name": "Mrs. Pratima Pattanaik",
+        "designation": "Assistant Professor",
+        "department": "Economics"
+      },
+      {
+        "name": "Dr. Satyanarayan Dhal",
+        "designation": "Associate Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Mr. Ashutosh Pradhan",
+        "designation": "Assistant Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Ms. Chinmayee Behera",
+        "designation": "Assistant Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Mr. Saswat Swarup Tripathy",
+        "designation": "Assistant Professor",
+        "department": "Marketing"
+      },
+      {
+        "name": "Mr. Manoj Kumar Behera",
+        "designation": "Assistant Professor",
+        "department": "Quantitative Techniques & Operations Management"
+      },
+      {
+        "name": "Dr. Kailash Chandra Nayak",
+        "designation": "Associate Professor",
+        "department": "Math & QT"
+      },
+      {
+        "name": "Dr. S Eswar Reddy",
+        "designation": "Associate Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mr. Samir Kumar Patro",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mrs. Lubna Amrin",
+        "designation": "Assistant Professor",
+        "department": "English"
+      },
+      {
+        "name": "Mrs. Nirupama Parida",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mr. Prasant Kumar Dash",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mrs. Baruni Prasanna Nayak",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mr. Jnana Ranjan Tripathy",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mrs. Smruti Rout",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mr. Sudarshan Bera",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Ms. Sonali Sadangi",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mr. Subham Kumar Beura",
+        "designation": "Assistant Professor",
+        "department": "CS"
+      },
+      {
+        "name": "Mrs. Rashmita Mishra",
+        "designation": "Assistant Professor",
+        "department": "Training and Placement"
+      }
+    ]
+  },
+  "departments_and_academic_areas": [
+    "Finance",
+    "General Management",
+    "English",
+    "Human Resources",
+    "Organizational Behaviour & HR",
+    "Marketing",
+    "Economics",
+    "Quantitative Techniques & Operations Management",
+    "Mathematics & Quantitative Techniques",
+    "Computer Science",
+    "Training and Placement"
+  ],
+  "academic_activities": {
+    "workshops": [
+      "IoT exposition by MCA students",
+      "Technical workshop on Cybersecurity & Ethical Hacking",
+      "Workshop on advanced C and its applications",
+      "Workshop on Research Informatics / Research Methodology",
+      "IBM SkillsBuild for Job Seekers",
+      "AI and Data Skills Certificate Workshop"
+    ],
+    "seminars": [
+      "National Seminar on Emerging Trends and Challenges in Management Practices",
+      "Seminar on Job Readiness for New Age Software Development Industry",
+      "Seminar on Mind Control and Lifestyle Management",
+      "Seminar on Investment in Stock Market: Fundamental and Technical Analysis",
+      "Breast Cancer Awareness Program",
+      "Seminar on Entrepreneurial India"
+    ],
+    "webinars": [
+      "National Webinar on New Age Workforce Challenges",
+      "Challenges & Opportunities within Management Block Post COVID Scenario",
+      "ICT Enabled Education"
+    ],
+    "other_events": [
+      "BPUT Tech Carnival",
+      "BPUT Carnival activities"
+    ]
+  },
+  "committees_and_quality": {
+    "institutional_cells_and_committees": [
+      "Grievance Redressal Committee",
+      "IPR Cell",
+      "Research Cell",
+      "IQAC",
+      "Anti Ragging Cell",
+      "Women's Protection Cell"
+    ],
+    "research_cell_objectives": [
+      "Promote research awareness among faculty",
+      "Develop research culture",
+      "Encourage research publications",
+      "Facilitate research projects",
+      "Encourage collaboration with research organizations and industry",
+      "Support doctoral studies"
+    ]
+  },
+  "student_support_and_resources": {
+    "resources": [
+      "Library",
+      "Digital Library",
+      "Computer Laboratory",
+      "Wi-Fi",
+      "Hostel",
+      "Canteen",
+      "Transportation",
+      "Career Counseling",
+      "Placement Support",
+      "Industry Connect",
+      "Summer Internship"
+    ]
+  },
+  "rag_knowledge": {
+    "entity_type": "educational_institution",
+    "canonical_entity": "United School of Business Management (USBM), Bhubaneswar",
+    "search_keywords": [
+      "USBM",
+      "United School of Business Management",
+      "USBM Bhubaneswar",
+      "USBM Odisha",
+      "MBA USBM",
+      "MCA USBM",
+      "BCA USBM",
+      "BBA USBM",
+      "USBM faculty",
+      "USBM placements",
+      "USBM facilities",
+      "USBM campus",
+      "USBM Patia",
+      "USBM Chandaka Industrial Estate",
+      "BPUT",
+      "AICTE",
+      "NAAC"
+    ],
+    "sample_queries": [
+      "Where is USBM located?",
+      "What courses does USBM offer?",
+      "Who is the principal of USBM?",
+      "Who are the Computer Science faculty members at USBM?",
+      "What facilities are available at USBM?",
+      "What are the 2025-26 placement statistics shown on the USBM website?",
+      "What is the address and contact number of USBM?",
+      "What is the vision and mission of USBM?"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USBM Official Homepage",
+      "url": "https://www.usbm.ac.in/",
+      "scope": [
+        "About USBM",
+        "Founder",
+        "Facilities",
+        "Courses",
+        "Placement analysis",
+        "Contact information"
+      ]
+    },
+    {
+      "title": "USBM Official Faculty Page",
+      "url": "https://www.usbm.ac.in/Faculty.php",
+      "scope": [
+        "Faculty names",
+        "Designations",
+        "Departments",
+        "Available faculty email addresses"
+      ]
+    },
+    {
+      "title": "USBM Official About Page",
+      "url": "https://usbm.ac.in/about-us.php",
+      "scope": [
+        "AICTE approval",
+        "BPUT affiliation",
+        "NAAC accreditation",
+        "Vision",
+        "Mission",
+        "Leadership"
+      ]
+    },
+    {
+      "title": "USBM Official Facilities Page",
+      "url": "https://www.usbm.ac.in/facilities",
+      "scope": [
+        "Library",
+        "Wi-Fi",
+        "Hostel",
+        "Canteen",
+        "Classroom training",
+        "Lab facilities"
+      ]
+    },
+    {
+      "title": "USBM Official Curricular Page",
+      "url": "https://www.usbm.ac.in/curricular",
+      "scope": [
+        "Workshops",
+        "Seminars",
+        "Webinars",
+        "Academic events"
+      ]
+    }
+  ],
+  "data_note": "This JSON is designed as a knowledge-base document for RAG/vector search. Website-derived facts should be rechecked against the official USBM pages when a user asks for time-sensitive information such as admissions, faculty lists, placements, or notices."
+}
